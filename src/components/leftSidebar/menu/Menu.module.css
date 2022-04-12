@@ -1,0 +1,28 @@
+.menu_style{
+
+}
+.menu_container{
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.menu_content{
+}
+.menu_content ul{
+  padding-left: 0;
+  margin: 0;
+}
+.menu_content ul li{
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+  cursor:pointer;
+}
+.menu_content ul li:hover{
+  font-weight: 700;
+}

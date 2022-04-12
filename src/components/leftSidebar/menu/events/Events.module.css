@@ -1,0 +1,19 @@
+.events_list{
+  display: block;
+}
+.events_list ul{
+  margin: 0;
+  padding-left:12px;
+  margin-top:-15px;
+  margin-bottom: 20px;
+}
+.events_list ul li{
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 13px;
+  color: #FFFFFF;
+  margin: 0;
+  margin-bottom:13px;
+}

@@ -1,0 +1,8 @@
+.events_list ul{
+  margin-top: -14px;
+}
+
+.events_list ul li{
+  font-size: 11px;
+  margin-bottom: 10px;
+}
